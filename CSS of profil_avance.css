@@ -1,0 +1,26 @@
+.firstimg
+{   max-width: 100%;
+    height: auto;
+    width: 10%;
+}
+h1
+{
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+}
+h2
+{
+    color: brown;
+    font-size: larger;
+}
+p,li,h2
+{
+    font-family: Arial, Helvetica, sans-serif
+}
+section
+{
+    background-color: blanchedalmond;
+    max-width: 800px;
+    margin: 0 auto;
+}
